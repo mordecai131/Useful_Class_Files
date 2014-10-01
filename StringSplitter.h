@@ -1,3 +1,6 @@
+// This header file was created and edited by Adam Carter at Washington State University
+// All credit for this file belongs to him.
+
 #ifndef STRINGSPLITTER_H
 #define STRINGSPLITTER_H
 
